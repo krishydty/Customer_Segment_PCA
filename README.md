@@ -10,6 +10,6 @@ A wholesale distributor recently tested a change to their delivery method for so
 
 # This project contains three files:
 
-  customer_segments.ipynb: This is the main file where you will be performing your work on the project.
-  customers.csv: The project dataset. You’ll load this data in the notebook.
-  visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.
+  * customer_segments.ipynb: This is the main file where you will be performing your work on the project.
+  * customers.csv: The project dataset. You’ll load this data in the notebook.
+  * visuals.py: This Python script provides supplementary visualizations for the project. Do not modify.
